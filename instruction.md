@@ -24,4 +24,18 @@
 
 *git push* - **отправляет локальную версию репозитория на внешней**
   
-  
+
+[Справочник по Markdown от Microsoft](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - **Ссылка**
+
+[markdown_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png) - **Картинки-ссылки**
+
+>Расширение Docs Authoring Pack для Visual Studio Code помогает правильно вставлять относительные ссылки и закладки в автоматическом режиме. </br>- *цитата*
+
+![Картинка](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png) - картинка
+
+### Таблица
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell  
